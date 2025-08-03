@@ -14,8 +14,16 @@ body {
   background-color: lightcyan;
   display: flex;
   justify-content: center;
+  flex-direction: column;
   align-items: center;
   box-shadow: 0 0 10px gray;
+}
+.container .text{
+  margin-bottom: 20px;
+  font-size: 90px;
+  background-image: linear-gradient(black,gray,white);
+  background-clip: text;
+  color: transparent;
 }
 
 .color-picker {
