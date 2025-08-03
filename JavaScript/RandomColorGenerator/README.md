@@ -14,6 +14,6 @@ This is a small JavaScript project that lets users pick a color manually or gene
 2. Click **Generate** to apply it.
 3. Or click **Click Me** to generate a random color.
 
-##Invalid Color Entred , it will display , "Enter a vaild Color" and does not Change the bgColor and the bgColor as deafult
+-Invalid Color Entred , it will display , "Enter a vaild Color" and does not Change the bgColor and the bgColor as deafult
 
 <img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/3069368a-1d38-48a0-a103-042f276f6a09" />
